@@ -1,6 +1,6 @@
 - Hi, I’m @eswarkoda
 - I’m currently pursueing MTech(AI&ML)
-- Ima interested in Machine Learning & Python
+- I am interested in Machine Learning & Python
 - You can reach me through koda.eswar@gmail.com
 
 <!---
